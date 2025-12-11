@@ -1,13 +1,8 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
-</p>
+## PixelMarket-BackEnd
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
-
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+BackEnd a cargo de: Ignacio
+Este repositorio contiene el BackEnd del proyecto de E-commerce "PixelMarket" hecho en conjunto
+con Renato
 
 ## Setup 
 
