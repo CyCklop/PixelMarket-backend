@@ -1,0 +1,42 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+lerna-debug.log
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+log/
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+
+# Dist (build output)
+dist/
+dist-ssr/
+*.local
+
+# TypeScript
+*.tsbuildinfo
+
+# Cache
+.cache/
+.eslintcache/
+.parcel-cache/
+.vscode/
+
+# Nest CLI
+.nest/
+
+# Coverage
+coverage/
