@@ -1,8 +1,8 @@
 ## PixelMarket-BackEnd
 
 BackEnd a cargo de: Ignacio
-Este repositorio contiene el BackEnd del proyecto de E-commerce "PixelMarket" hecho en conjunto
-con Renato
+
+Este repositorio contiene el BackEnd del proyecto de E-commerce "PixelMarket" hecho en conjunto con Renato
 
 ## Setup 
 
